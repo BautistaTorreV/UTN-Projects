@@ -1,9 +1,10 @@
  
 <h1 align="center">UTN Academic Projects</h1>
+
 This repository contains my university projects from the Systems Engineering program at UTN Buenos Aires. These assignments explore different programming paradigms, methodologies, and software development strategies through real-world applications.
 
+![Mi Banner](Others/Banner.jpg)
 
----
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> TP-Sistemas Operativos
