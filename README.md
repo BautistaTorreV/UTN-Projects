@@ -19,13 +19,13 @@ This project consisted of designing and implementing a distributed system to man
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> TP-Tecnicas Avanzadas de Programacion (Scala)
-### [Functional Programming and Parser Combinators](TP-Tecnicas%20Avanzadas%20de%20Programacion)
+### [Functional Programming and Parser Combinators](TP-Tecnicas%20Avanzadas%20de%20Programacion/scala)
 This project focused on the development of a Domain-Specific Language (DSL) to define and manipulate images using functional programming principles. The goal was to design a system that could construct and transform graphical representations by applying parser combinators, allowing the interpretation of textual commands into structured image modifications. The assignment emphasized working with immutability, recursion, and higher-order functions, as well as combining functional and object-oriented approaches for code modularity.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> TP-Tecnicas Avanzadas de Programacion (Ruby)
-### [Metaprogramming & Custom Testing Framework](TP-Tecnicas%20Avanzadas%20de%20Programacion)
+### [Metaprogramming & Custom Testing Framework](TP-Tecnicas%20Avanzadas%20de%20Programacion/ruby)
 This project involved the creation of a custom testing framework using metaprogramming techniques. The objective was to design a tool that could dynamically analyze and execute test cases on different software components. The framework allowed for defining custom assertions, mocking behaviors, and tracking execution logs. A key part of the assignment was leveraging reflection to introspect code structure and dynamically generate test cases, making it easier to extend and integrate with various projects.
 
 ---
