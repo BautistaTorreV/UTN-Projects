@@ -35,7 +35,20 @@ This project focused on the development of a Domain-Specific Language (DSL) to d
 <h3 align="rigth">Metaprogramming & Custom Testing Framework</h3>
 This project involved the creation of a custom testing framework using metaprogramming techniques. The objective was to design a tool that could dynamically analyze and execute test cases on different software components. The framework allowed for defining custom assertions, mocking behaviors, and tracking execution logs. A key part of the assignment was leveraging reflection to introspect code structure and dynamically generate test cases, making it easier to extend and integrate with various projects.
 
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> TP-Gestion de Datos
+<h3 align="rigth">Marketplace Management System</h3>
+This project involves the design and implementation of a marketplace management system that facilitates product listings, sales transactions, payments, shipments, and invoice generation. The system is based on SQL Server 2019, requiring data migration and normalization from an unstructured database. The project was divided into two main phases:
+
+1. Transactional Database Model - Development of a structured relational database schema to manage business operations efficiently, ensuring data integrity and normalization.
+2. Business Intelligence Model - Implementation of a data warehouse for analytical queries, enabling insights into sales performance, customer demographics, payment trends, and delivery efficiency.
+
+The project also emphasized stored procedures, triggers, and indexing for optimization, ensuring efficient data retrieval and system scalability.
+
+---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> Contact:
 If you have any questions or would like to discuss any of these projects, feel free to connect with me on [LinkedIn](https://linkedin.com/in/bautista-torre-vanoni) or email me at [bautistatorre9@gmail.com](mailto:bautistatorre9@gmail.com).
+
+
