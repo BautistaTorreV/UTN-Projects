@@ -1,8 +1,8 @@
- <h1 align="center">UTN Academic Projects</h1>
+<h1 align="center">UTN Academic Projects</h1>
 
 This repository contains my university projects from the Systems Engineering program at UTN Buenos Aires. These assignments explore different programming paradigms, methodologies, and software development strategies through real-world applications.
 
-![Mi Banner](Others/Banner.jpg)
+![Banner](https://raw.githubusercontent.com/BautistaTorreV/UTN-Projects/main/Other/Banner.jpg)
 
 ---
 
@@ -43,5 +43,3 @@ The project also emphasized stored procedures, triggers, and indexing for optimi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="25" height="25" /> Contact:
 If you have any questions or would like to discuss any of these projects, feel free to connect with me on [LinkedIn](https://linkedin.com/in/bautista-torre-vanoni) or email me at [bautistatorre9@gmail.com](mailto:bautistatorre9@gmail.com).
-
-
