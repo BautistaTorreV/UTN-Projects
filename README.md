@@ -1,8 +1,10 @@
+
 <h1 align="center">UTN Academic Projects</h1>
 
-This repository contains my university projects from the Systems Engineering program at UTN Buenos Aires. These assignments explore different programming paradigms, methodologies, and software development strategies through real-world applications.
 
-![Banner](https://raw.githubusercontent.com/BautistaTorreV/UTN-Projects/main/Other/Banner.jpg)
+<p align="center">
+  <img width="100%" src="https://raw.githack.com/BautistaTorreV/UTN-Projects/main/Others/Banner.jpg" alt="Banner"/>
+</p>
 
 ---
 
